@@ -146,9 +146,9 @@ Images/dashboard.png
 
 ## 👩‍💻 Author
 
-**Shalini Sanjay**
+**Shalini Senthilkumar
 
-Aspiring Data Analyst | SQL | Excel | Python | Power BI | Full Stack Developer
+Aspiring Data Analyst | SQL | Excel | Python | Power BI 
 
 ---
 
